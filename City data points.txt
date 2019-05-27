@@ -1,0 +1,5 @@
+Country		City		Population	Density		Longitude	Latitude
+
+Guatemala	Guatemala City	2,740,000	5,800 km2	14.6349		-90.5069
+
+Costa Rica	San Jose	2,160,000	5,921 km2	9.9281		-84.0907
