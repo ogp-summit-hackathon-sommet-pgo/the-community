@@ -9,7 +9,7 @@ library(rgeos)
 library(dplyr)
 library(magrittr)
 
-register_google(key = "AIzaSyDWv3jS3lB8xewu8RtYKxXsl18XEC9ySxo")
+
 
 
 parks = data.frame(matrix(NA,0,3))
@@ -21,7 +21,7 @@ for (lon in seq(-76.35,-75.25,0.02)) {
     general_result <- google_places(search_string = 'park',
                                     location = c(lat, lon),
                                     radius = 0.3,
-                                    key = 'AIzaSyDWv3jS3lB8xewu8RtYKxXsl18XEC9ySxo')
+                                    key = google_key)
     
     temp = data.frame(name = general_result$results$name,
                       lat = general_result$results$geometry$location$lat,
