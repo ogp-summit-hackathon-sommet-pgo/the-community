@@ -1,4 +1,4 @@
-As far as we know, there is no public open source tool which calculates the percentage of a city's area dedicated to publicly accessible park space. This information is important for various reasons. For example, keeping track of this figure along with the changes that occur throughout time would allow city planners to investigate why this is happening, and if there should be policies put in place to secure their survival.
+As far as we know, there is no public open source tool which calculates the percentage of a city's area dedicated to publicly accessible park space. This information is important for various reasons. For example, keeping track of this figure along with the changes that occur throughout time would allow city planners to investigate why changes are happening, and if there should be policies put in place to secure their survival.
 
 Our goal is to have this figure publicly available for ALL cities which have been sufficiently mapped on Google Maps. On the aggregate, the table would look something like this: 
 
