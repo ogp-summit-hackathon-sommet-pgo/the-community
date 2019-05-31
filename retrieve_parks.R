@@ -1,5 +1,4 @@
 
-# old key: AIzaSyDWv3jS3lB8xewu8RtYKxXsl18XEC9ySxo
 
 # load libraries
 library(RgoogleMaps)
